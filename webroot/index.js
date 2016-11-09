@@ -1,3 +1,3 @@
-$.ajax('/endpoint', function() {
+$.ajax('/endpoint.php', function() {
     console.log('success');
 });
